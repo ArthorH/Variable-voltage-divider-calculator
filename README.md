@@ -116,10 +116,6 @@ Here's a plot of the "distances" that the algorithm calculated while searching f
 ![Test](https://github.com/user-attachments/assets/cd0a29a8-a6c5-46c4-bd9f-156ec912f7a6)
 
 
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to modify.
-
 ## Shout out to:
 * [Evan Fosmark](mailto:evan.fosmark@gmail.com) for making the amazing [Python resistor divider calculator](https://github.com/efosmark/voltage-divider), which my script is heavily based on.
 * https://www.asciiart.eu for providing ascii art
